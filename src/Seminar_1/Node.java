@@ -1,3 +1,5 @@
+package Seminar_1;
+
 public class Node {
 
     public Node(Person p1, Relationship re, Person p2) {
