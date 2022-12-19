@@ -1,0 +1,14 @@
+Ирина parent Вася
+Вася children Ирина
+Ирина parent Даша
+Даша children Ирина
+Ирина parent Маша
+Маша children Ирина
+Вася parent Женя
+Женя children Вася
+Вася parent Ваня
+Ваня children Вася
+Вася brother Маша
+Маша sister Вася
+Даша sister Маша
+Маша sister Даша
